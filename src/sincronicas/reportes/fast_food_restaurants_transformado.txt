@@ -1,0 +1,40 @@
+REPORTE DEL DATAFRAME
+============================================================
+Filas: 9535
+Columnas: 10
+Duplicados: 0
+
+Columnas y tipos:
+- address: object
+- city: object
+- country: object
+- keys: object
+- latitude: float64
+- longitude: float64
+- name: object
+- postalCode: object
+- province: object
+- websites: object
+
+Valores nulos por columna:
+- address: 0
+- city: 0
+- country: 0
+- keys: 0
+- latitude: 0
+- longitude: 0
+- name: 0
+- postalCode: 0
+- province: 0
+- websites: 0
+
+Estadísticas numéricas:
+       latitude  longitude
+count  9535.000   9535.000
+mean     37.590    -91.141
+std       4.991     17.794
+min      19.345   -159.335
+25%      34.036    -97.368
+50%      38.339    -87.655
+75%      41.141    -81.485
+max      64.840    123.012
