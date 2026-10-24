@@ -49,11 +49,4 @@ La clase `GeneradorResumenTXT` genera un informe con las URL de origen, los arch
 - CSV: 10.000 registros.
 - JSON: 194 países.
 
-Ejecución
-
-1. Abre `Actividad_CSV_JSON.ipynb` en Jupyter o VS Code.
-2. Selecciona el entorno Python del proyecto.
-3. Ejecuta las celdas en orden.
-4. Comprueba los resultados y el contenido del archivo de resumen.
-
 Las rutas del notebook están configuradas para ejecutarse desde `src/sincronicas/`.
