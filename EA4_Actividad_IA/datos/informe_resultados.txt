@@ -1,0 +1,29 @@
+EA4 - ANALISIS DE RECARGA DE VEHICULOS ELECTRICOS
+=======================================================
+
+Total de registros analizados: 5000
+Ciudades analizadas: 7
+Estaciones analizadas: 890
+Tipos de conectores: 4
+
+RESULTADOS TEMPORALES
+------------------------------
+Hora de mayor actividad: 0:00
+Sesiones registradas: 256
+
+RESULTADOS POR CIUDAD
+------------------------------
+Ciudad con mayor energia media: Amsterdam
+Energia media: 74.24 kWh
+
+RESULTADOS POR CONECTOR
+------------------------------
+Conector con mayor energia media: Tesla Supercharger
+Energia media: 75.03 kWh
+
+CALIDAD DE LOS DATOS
+------------------------------
+Registros con posibles anomalias: 1691
+
+Nota: los resultados no permiten medir directamente
+la eficiencia energetica ni la autonomia de los vehiculos.
